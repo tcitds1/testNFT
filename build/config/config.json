@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe7914a2a200ea2a1f32358aa7880509be2e4772e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xe7914a2a200ea2a1f32358aa7880509be2e4772e",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "The AZUKI NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
